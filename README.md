@@ -9,9 +9,9 @@ Hi, I'm Yahya Yasir! I'm a Full-Stack Developer who is passionate about writing 
 - 👯 I’m looking for a Full-Stack development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yykoca) [Gmail](mailto:yykoca.08@gmail.com)
 
-[<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=yykoca&show_icons=true"/>](https://github.com/yykoca/)
 
 ## 🛠 &nbsp;Tech Stack
+[<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=yykoca&show_icons=true"/>](https://github.com/yykoca/)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -33,7 +33,7 @@ Hi, I'm Yahya Yasir! I'm a Full-Stack Developer who is passionate about writing 
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-[<img height="180em" align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yykoca&theme=buefy&layout=compact" />](https://github.com/AVS1508)
+[<img height="180em" align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yykoca&theme=buefy&layout=compact" />](https://github.com/AVS1508)
 ---
 ⭐️ From [yykoca](https://github.com/yykoca)
 
