@@ -5,8 +5,8 @@
 Hi, I'm Yahya Yasir! I'm a Full-Stack Developer who is passionate about writing code, solving problems, automating stuff, and building Single Page Application.
 
 [<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=yykoca&show_icons=true"/>](https://github.com/yykoca/)
-- 🧑🏻‍💻 I’m currently a Full-Stack Web Developer at GDS GmbH.
-- 📚 I’m currently learning  backend web development using PHP, Symfony.
+- 🧑🏻‍💻 I’m currently a Full-Stack Web Developer.
+- 📚 I’m currently learning  backend web development using PHP, Symfony and also NestJS.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yykoca) [Gmail](mailto:yykoca.08@gmail.com)
 
 
@@ -18,10 +18,12 @@ Hi, I'm Yahya Yasir! I'm a Full-Stack Developer who is passionate about writing 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
