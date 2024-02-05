@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-Hi, I'm Yahya Yasir! I'm a Full-Stack Developer who is passionate about writing code, solving problems, automating stuff, and building Single Page Application.
+Hi, I'm Yahya Yasir! I'm a Full-Stack Developer who is passionate about writing code, solving problems, automating stuff, and building Single Page Applications.
 
 [<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=yykoca&show_icons=true"/>](https://github.com/yykoca/)
 - 🧑🏻‍💻 I’m currently a Full-Stack Web Developer.
