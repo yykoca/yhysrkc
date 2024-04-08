@@ -2,12 +2,12 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-Hi, I'm Yahya Yasir! I'm a Full-Stack Developer who is passionate about writing code, solving problems, automating stuff, and building Single Page Applications.
+Hello there! I'm Yahya Yasir, a passionate Full-Stack Developer with a love for crafting elegant code, solving intricate problems, automating tasks, and building engaging Single Page Applications.
 
-[<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=yykoca&show_icons=true"/>](https://github.com/yykoca/)
-- 🧑🏻‍💻 I’m currently working as a Full-Stack Developer at [CF](https://contentfleet.de).
-- 📚 I’m currently learning  backend web development using PHP, Symfony and also NestJS.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yykoca) [Gmail](mailto:yykoca.08@gmail.com)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=yykoca&show_icons=true"/>](https://github.com/yykoca/)
+- 🧑🏻‍💻 At the moment, I'm immersed as a Full-Stack Developer at [CF](https://contentfleet.de). My greatest passion in my work lies in crafting code at every stage to enhance user experiences and innovate solutions.
+- 📚 I'm currently delving into backend web development using PHP, Symfony, and NestJS. Embracing new technologies and honing my skills are lifestyle choices for me.
+- 📫 Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/yykoca) or via [email](mailto:yykoca.08@gmail.com). I'm always keen on collaborating on new projects and meeting new individuals!
 
 
 ## 🛠 &nbsp;Tech Stack
